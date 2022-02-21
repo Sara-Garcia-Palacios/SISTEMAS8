@@ -1,3 +1,2 @@
 # SISTEMAS8
-
-Autor: Sara Garcia Palacios
+Practicas con el grupo de ing. Sistemas del semestre 2022
